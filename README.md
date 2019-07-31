@@ -1,5 +1,5 @@
 # Portfolio
-    A Portofolio outlining the things 
+    A Portofolio outlining the things i have achieved as a Software Developer
 #### Rewel Kinyanjui
 ## Description
     The app aims at detailing the  things I can do and the things I have achieved
